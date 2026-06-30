@@ -1,0 +1,1261 @@
+text,intent
+My insurance payment looks wrong as soon as possible,billing_question
+Do you accept walk ins and I might need help with billing too,records_request
+Do you accept walk ins and I might need help with billing too,general_question
+My insurance payment looks wrong as soon as possible,billing_question
+I have a question about my invoice as soon as possible,billing_question
+Change my appointment time to late afternoon for my child,reschedule_appointment
+Can you check me in for my visit please,check_in
+I need to book an appointment with a specialist for tomorrow thanks,book_appointment
+Why was I charged for my visit thanks,reschedule_appointment
+Please provide my clinic record,records_request
+Patient check in for the dermatologist please,check_in
+What time does the clinic close please,general_question
+I need to book an appointment with Dr. Anderson for Friday and I might need help with billing too,book_appointment
+I am here to check in please,check_in
+I arrived for my appointment thanks,check_in
+I am here to check in as soon as possible,cancel_appointment
+I want to see a doctor about a rash and I might need help with billing too,book_appointment
+Book me in with a specialist at 2 PM,book_appointment
+I arrived for my appointment and I might need help with billing too,book_appointment
+I will not attend my appointment for my child,cancel_appointment
+I need a copy of my medical records thanks,records_request
+Can I schedule a visit for knee pain on this afternoon,book_appointment
+I want my appointment notes,records_request
+Can you explain my bill and I might need help with billing too,billing_question
+Please provide my clinic record thanks,records_request
+I want my appointment notes as soon as possible,records_request
+I need to move my booking with Dr. Anderson and I might need help with billing too,reschedule_appointment
+Please cancel my appointment and I might need help with billing too,cancel_appointment
+I need to move my booking with Dr. Chen and I might need help with billing too,reschedule_appointment
+Where are you located as soon as possible,general_question
+Patient check in for Dr. Chen for my child,check_in
+Do you accept walk ins thanks,general_question
+Patient check in for a specialist and I might need help with billing too,check_in
+I need to move my booking with a specialist thanks,reschedule_appointment
+I need to book an appointment with a specialist for tomorrow as soon as possible,book_appointment
+I arrived for my appointment and I might need help with billing too,check_in
+I want to see a doctor about headaches and I might need help with billing too,book_appointment
+I arrived for my appointment and I might need help with billing too,check_in
+I need a copy of my medical records as soon as possible,records_request
+Please cancel my appointment,cancel_appointment
+Why was I charged for my visit and I might need help with billing too,billing_question
+I want my appointment notes thanks,records_request
+I have a question about my invoice thanks,billing_question
+I need a copy of my medical records please,records_request
+Why was I charged for my visit and I might need help with billing too,billing_question
+Can you check me in for my visit,check_in
+I arrived for my appointment and I might need help with billing too,check_in
+I have a question about my invoice thanks,book_appointment
+Please cancel my appointment,cancel_appointment
+I am here to check in please,check_in
+How can I contact the clinic please,general_question
+Where are you located as soon as possible,general_question
+I need to book an appointment with Dr. Anderson for this afternoon and I might need help with billing too,book_appointment
+I need to book an appointment with Dr. Chen for this afternoon as soon as possible,book_appointment
+Do you accept walk ins for my child,general_question
+I am here to check in and I might need help with billing too,book_appointment
+Book me in with Dr. Anderson at before work as soon as possible,book_appointment
+Can you send my test results for my child,records_request
+Can I reschedule my appointment to Friday and I might need help with billing too,reschedule_appointment
+Can I schedule a visit for a rash on next week as soon as possible,general_question
+Where are you located and I might need help with billing too,general_question
+I need a copy of my medical records please,records_request
+Where are you located for my child,general_question
+Why was I charged for my visit please,reschedule_appointment
+I have a question about my invoice please,billing_question
+I need to book an appointment with a specialist for Friday as soon as possible,book_appointment
+Can you check me in for my visit please,check_in
+Please provide my clinic record,records_request
+I arrived for my appointment and I might need help with billing too,check_in
+Can you check me in for my visit thanks,check_in
+I need to move my booking with Dr. Chen,reschedule_appointment
+Can you send my test results and I might need help with billing too,records_request
+I want my appointment notes and I might need help with billing too,records_request
+Please provide my clinic record as soon as possible,records_request
+Please cancel my appointment,cancel_appointment
+Remove my booking for this afternoon as soon as possible,cancel_appointment
+I arrived for my appointment and I might need help with billing too,check_in
+I am here to check in for my child,check_in
+I want to see a doctor about knee pain for my child,book_appointment
+Can I schedule a visit for a prescription refill on this afternoon please,book_appointment
+I have a question about my invoice please,billing_question
+What time does the clinic close as soon as possible,general_question
+I cannot make my appointment and need another slot please,reschedule_appointment
+Can you explain my bill and I might need help with billing too,billing_question
+I cannot make my appointment and need another slot thanks,reschedule_appointment
+Can you send my test results as soon as possible,records_request
+I arrived for my appointment as soon as possible,check_in
+Please provide my clinic record and I might need help with billing too,records_request
+Where are you located,general_question
+Where are you located,general_question
+Can you send my test results thanks,cancel_appointment
+I will not attend my appointment please,cancel_appointment
+I want to see a doctor about headaches thanks,book_appointment
+I need to book an appointment with Dr. Anderson for this afternoon for my child,book_appointment
+I have a question about my invoice as soon as possible,billing_question
+I will not attend my appointment as soon as possible,cancel_appointment
+Can you send my test results for my child,records_request
+I need to book an appointment with my family doctor for Friday and I might need help with billing too,book_appointment
+Where are you located please,general_question
+I am here to check in for my child,check_in
+Can you check me in for my visit as soon as possible,check_in
+Book me in with Dr. Chen at late afternoon for my child,book_appointment
+I arrived for my appointment thanks,check_in
+Patient check in for my family doctor thanks,check_in
+I have a question about my invoice as soon as possible,billing_question
+My insurance payment looks wrong and I might need help with billing too,billing_question
+I am here to check in thanks,check_in
+I am here to check in,check_in
+I want my appointment notes,records_request
+Patient check in for my family doctor,check_in
+My insurance payment looks wrong and I might need help with billing too,billing_question
+I am here to check in as soon as possible,check_in
+How can I contact the clinic thanks,general_question
+I arrived for my appointment for my child,check_in
+Remove my booking for Friday,cancel_appointment
+I need a copy of my medical records as soon as possible,records_request
+Can I reschedule my appointment to this afternoon and I might need help with billing too,check_in
+I need to book an appointment with the dermatologist for this afternoon for my child,book_appointment
+I need to move my booking with Dr. Chen and I might need help with billing too,reschedule_appointment
+Can you explain my bill as soon as possible,billing_question
+Can I schedule a visit for a rash on Friday please,book_appointment
+Can I reschedule my appointment to Friday and I might need help with billing too,reschedule_appointment
+Can I schedule a visit for a rash on next week thanks,book_appointment
+I want my appointment notes please,records_request
+Can you explain my bill please,billing_question
+Can you explain my bill and I might need help with billing too,records_request
+Why was I charged for my visit thanks,billing_question
+Change my appointment time to 9:30,reschedule_appointment
+Can you send my test results thanks,general_question
+I want to see a doctor about headaches thanks,book_appointment
+How can I contact the clinic as soon as possible,general_question
+I need to book an appointment with Dr. Chen for next week and I might need help with billing too,check_in
+Please provide my clinic record as soon as possible,records_request
+Can I reschedule my appointment to Friday and I might need help with billing too,reschedule_appointment
+Change my appointment time to before work as soon as possible,reschedule_appointment
+Please provide my clinic record as soon as possible,records_request
+I want my appointment notes and I might need help with billing too,records_request
+I need to move my booking with a specialist,reschedule_appointment
+I want my appointment notes please,records_request
+Please cancel my appointment,cancel_appointment
+Do you accept walk ins for my child,general_question
+Can you explain my bill thanks,billing_question
+What time does the clinic close please,general_question
+I am here to check in,check_in
+Can you check me in for my visit thanks,check_in
+Where are you located and I might need help with billing too,cancel_appointment
+I want my appointment notes please,records_request
+Where are you located for my child,general_question
+Please provide my clinic record for my child,records_request
+Can you explain my bill and I might need help with billing too,billing_question
+I need to move my booking with the dermatologist thanks,reschedule_appointment
+How can I contact the clinic please,general_question
+Do you accept walk ins as soon as possible,general_question
+I will not attend my appointment and I might need help with billing too,cancel_appointment
+I need to move my booking with Dr. Anderson as soon as possible,reschedule_appointment
+Remove my booking for tomorrow for my child,cancel_appointment
+Do you accept walk ins thanks,general_question
+I cannot make my appointment and need another slot,reschedule_appointment
+Patient check in for my family doctor please,check_in
+I need to cancel my visit with a specialist thanks,cancel_appointment
+I need to cancel my visit with Dr. Anderson please,cancel_appointment
+I need to cancel my visit with Dr. Anderson please,cancel_appointment
+Patient check in for a specialist please,check_in
+Book me in with my family doctor at 2 PM as soon as possible,book_appointment
+I will not attend my appointment as soon as possible,cancel_appointment
+Please provide my clinic record,records_request
+Please cancel my appointment please,cancel_appointment
+Where are you located thanks,general_question
+How can I contact the clinic for my child,general_question
+I cannot make my appointment and need another slot please,reschedule_appointment
+I cannot make my appointment and need another slot thanks,check_in
+How can I contact the clinic and I might need help with billing too,general_question
+Remove my booking for next week,cancel_appointment
+Can you send my test results thanks,records_request
+I am here to check in as soon as possible,check_in
+Do you accept walk ins,general_question
+Can you send my test results and I might need help with billing too,records_request
+Can you explain my bill please,billing_question
+I need to move my booking with Dr. Chen thanks,reschedule_appointment
+Can you explain my bill thanks,billing_question
+What time does the clinic close as soon as possible,general_question
+What time does the clinic close as soon as possible,general_question
+Patient check in for Dr. Chen,check_in
+Please cancel my appointment,cancel_appointment
+I arrived for my appointment please,check_in
+Please provide my clinic record thanks,records_request
+I will not attend my appointment for my child,cancel_appointment
+Where are you located,general_question
+I need to book an appointment with the dermatologist for next week and I might need help with billing too,book_appointment
+Do you accept walk ins for my child,general_question
+I cannot make my appointment and need another slot for my child,reschedule_appointment
+Why was I charged for my visit thanks,billing_question
+Can you send my test results as soon as possible,records_request
+What time does the clinic close and I might need help with billing too,general_question
+Can you send my test results as soon as possible,records_request
+I will not attend my appointment as soon as possible,cancel_appointment
+Where are you located please,general_question
+I want my appointment notes,records_request
+Please cancel my appointment please,cancel_appointment
+Book me in with the dermatologist at after lunch,book_appointment
+I arrived for my appointment as soon as possible,check_in
+How can I contact the clinic and I might need help with billing too,records_request
+Where are you located as soon as possible,general_question
+What time does the clinic close thanks,general_question
+I am here to check in and I might need help with billing too,check_in
+Can you send my test results for my child,records_request
+I am here to check in for my child,check_in
+I am here to check in,reschedule_appointment
+Can I schedule a visit for knee pain on this afternoon,book_appointment
+What time does the clinic close thanks,general_question
+My insurance payment looks wrong please,check_in
+Can you send my test results for my child,records_request
+I need a copy of my medical records please,records_request
+I will not attend my appointment as soon as possible,cancel_appointment
+Can you send my test results and I might need help with billing too,records_request
+Where are you located thanks,general_question
+Can I schedule a visit for headaches on tomorrow please,book_appointment
+Where are you located for my child,general_question
+My insurance payment looks wrong thanks,billing_question
+Please provide my clinic record as soon as possible,records_request
+I am here to check in thanks,check_in
+I will not attend my appointment please,cancel_appointment
+Can you send my test results thanks,records_request
+Do you accept walk ins as soon as possible,general_question
+I am here to check in for my child,check_in
+I need a copy of my medical records thanks,records_request
+I want to see a doctor about test results as soon as possible,book_appointment
+Please provide my clinic record as soon as possible,records_request
+Can I schedule a visit for a follow up on this afternoon and I might need help with billing too,book_appointment
+I am here to check in and I might need help with billing too,check_in
+Patient check in for Dr. Anderson thanks,check_in
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+I arrived for my appointment as soon as possible,check_in
+Change my appointment time to after lunch,cancel_appointment
+Patient check in for the dermatologist,check_in
+Remove my booking for Friday please,cancel_appointment
+I need to book an appointment with a specialist for this afternoon thanks,book_appointment
+Why was I charged for my visit,billing_question
+Can you explain my bill,billing_question
+Can you send my test results for my child,records_request
+Can I reschedule my appointment to Monday morning as soon as possible,reschedule_appointment
+Change my appointment time to before work for my child,reschedule_appointment
+I need to book an appointment with Dr. Anderson for Monday morning,book_appointment
+Please cancel my appointment and I might need help with billing too,cancel_appointment
+Why was I charged for my visit,billing_question
+I want to see a doctor about a prescription refill for my child,book_appointment
+I need to cancel my visit with Dr. Chen please,cancel_appointment
+I need a copy of my medical records,records_request
+I have a question about my invoice for my child,billing_question
+I want to see a doctor about knee pain thanks,book_appointment
+I arrived for my appointment thanks,check_in
+Change my appointment time to before work please,reschedule_appointment
+Can you check me in for my visit thanks,check_in
+I need to move my booking with my family doctor and I might need help with billing too,reschedule_appointment
+Please cancel my appointment,cancel_appointment
+How can I contact the clinic thanks,general_question
+I want my appointment notes as soon as possible,records_request
+My insurance payment looks wrong as soon as possible,billing_question
+Can you check me in for my visit for my child,check_in
+Please provide my clinic record and I might need help with billing too,records_request
+Can I schedule a visit for a prescription refill on Friday please,book_appointment
+Patient check in for Dr. Chen thanks,check_in
+Book me in with Dr. Chen at 9:30 for my child,book_appointment
+Please provide my clinic record,records_request
+I want to see a doctor about a rash for my child,book_appointment
+I am here to check in as soon as possible,check_in
+Can I reschedule my appointment to tomorrow thanks,reschedule_appointment
+Change my appointment time to after lunch for my child,reschedule_appointment
+I want to see a doctor about headaches as soon as possible,book_appointment
+I have a question about my invoice and I might need help with billing too,billing_question
+I arrived for my appointment for my child,check_in
+Can you explain my bill,billing_question
+I have a question about my invoice,billing_question
+My insurance payment looks wrong and I might need help with billing too,billing_question
+Book me in with the dermatologist at 9:30 and I might need help with billing too,book_appointment
+Change my appointment time to after lunch as soon as possible,reschedule_appointment
+Please cancel my appointment and I might need help with billing too,cancel_appointment
+What time does the clinic close please,general_question
+I will not attend my appointment as soon as possible,cancel_appointment
+I cannot make my appointment and need another slot and I might need help with billing too,reschedule_appointment
+I cannot make my appointment and need another slot for my child,reschedule_appointment
+Can you send my test results as soon as possible,records_request
+How can I contact the clinic thanks,general_question
+I will not attend my appointment and I might need help with billing too,cancel_appointment
+Book me in with Dr. Chen at late afternoon and I might need help with billing too,book_appointment
+Book me in with Dr. Anderson at 2 PM for my child,book_appointment
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+I have a question about my invoice thanks,billing_question
+Can you explain my bill for my child,billing_question
+How can I contact the clinic and I might need help with billing too,general_question
+I need to cancel my visit with my family doctor,cancel_appointment
+I have a question about my invoice as soon as possible,billing_question
+I need to move my booking with Dr. Anderson for my child,reschedule_appointment
+Book me in with Dr. Chen at 2 PM and I might need help with billing too,book_appointment
+I need to cancel my visit with Dr. Anderson,cancel_appointment
+What time does the clinic close please,general_question
+Can I reschedule my appointment to next week thanks,reschedule_appointment
+Please cancel my appointment,cancel_appointment
+Patient check in for Dr. Chen please,check_in
+I am here to check in,check_in
+Remove my booking for this afternoon and I might need help with billing too,cancel_appointment
+Can you explain my bill,billing_question
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+Book me in with a specialist at late afternoon,book_appointment
+I am here to check in and I might need help with billing too,check_in
+I want my appointment notes thanks,records_request
+I have a question about my invoice and I might need help with billing too,billing_question
+I need to move my booking with Dr. Anderson thanks,reschedule_appointment
+Why was I charged for my visit as soon as possible,billing_question
+Remove my booking for next week for my child,cancel_appointment
+Can I reschedule my appointment to tomorrow and I might need help with billing too,reschedule_appointment
+Can you explain my bill please,billing_question
+How can I contact the clinic thanks,general_question
+Why was I charged for my visit as soon as possible,billing_question
+Remove my booking for tomorrow as soon as possible,cancel_appointment
+Can you send my test results as soon as possible,records_request
+Can I reschedule my appointment to Friday thanks,reschedule_appointment
+I want to see a doctor about headaches as soon as possible,book_appointment
+Please provide my clinic record,book_appointment
+I will not attend my appointment and I might need help with billing too,cancel_appointment
+I want to see a doctor about knee pain and I might need help with billing too,book_appointment
+I need a copy of my medical records,records_request
+I need to move my booking with Dr. Chen and I might need help with billing too,reschedule_appointment
+I need to move my booking with Dr. Chen please,reschedule_appointment
+Please cancel my appointment and I might need help with billing too,cancel_appointment
+I need to move my booking with my family doctor and I might need help with billing too,reschedule_appointment
+Where are you located as soon as possible,records_request
+Where are you located for my child,general_question
+Can you explain my bill and I might need help with billing too,billing_question
+I need to move my booking with Dr. Anderson please,reschedule_appointment
+How can I contact the clinic for my child,general_question
+Do you accept walk ins please,general_question
+Why was I charged for my visit thanks,billing_question
+I need to cancel my visit with the dermatologist as soon as possible,cancel_appointment
+Can I reschedule my appointment to Friday and I might need help with billing too,reschedule_appointment
+Can I reschedule my appointment to tomorrow as soon as possible,reschedule_appointment
+I want to see a doctor about a rash,book_appointment
+I need to book an appointment with a specialist for Monday morning please,book_appointment
+Remove my booking for this afternoon and I might need help with billing too,cancel_appointment
+Do you accept walk ins thanks,general_question
+My insurance payment looks wrong and I might need help with billing too,records_request
+I want my appointment notes for my child,records_request
+Can you explain my bill and I might need help with billing too,billing_question
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+Patient check in for Dr. Anderson thanks,check_in
+Where are you located as soon as possible,general_question
+Please cancel my appointment and I might need help with billing too,reschedule_appointment
+I want my appointment notes,records_request
+Where are you located for my child,general_question
+I need to book an appointment with a specialist for Friday as soon as possible,book_appointment
+How can I contact the clinic and I might need help with billing too,general_question
+I need to cancel my visit with Dr. Anderson and I might need help with billing too,cancel_appointment
+Can you explain my bill thanks,billing_question
+Patient check in for the dermatologist as soon as possible,check_in
+I need to move my booking with Dr. Anderson as soon as possible,reschedule_appointment
+Book me in with Dr. Anderson at late afternoon for my child,book_appointment
+I have a question about my invoice and I might need help with billing too,reschedule_appointment
+Please cancel my appointment please,cancel_appointment
+What time does the clinic close,general_question
+I need to book an appointment with the dermatologist for Friday please,book_appointment
+I am here to check in please,billing_question
+Why was I charged for my visit thanks,billing_question
+I will not attend my appointment as soon as possible,cancel_appointment
+Can I reschedule my appointment to Friday as soon as possible,reschedule_appointment
+I need to cancel my visit with Dr. Chen thanks,billing_question
+Do you accept walk ins thanks,general_question
+I cannot make my appointment and need another slot thanks,reschedule_appointment
+I want my appointment notes thanks,records_request
+Can you check me in for my visit and I might need help with billing too,check_in
+Please provide my clinic record and I might need help with billing too,records_request
+I am here to check in thanks,check_in
+Why was I charged for my visit please,billing_question
+I am here to check in please,check_in
+My insurance payment looks wrong,book_appointment
+Can you check me in for my visit please,check_in
+Why was I charged for my visit thanks,billing_question
+Can you send my test results for my child,records_request
+My insurance payment looks wrong thanks,billing_question
+Can you send my test results thanks,records_request
+I need to cancel my visit with the dermatologist thanks,cancel_appointment
+I need to move my booking with Dr. Chen please,reschedule_appointment
+Why was I charged for my visit please,billing_question
+Do you accept walk ins please,general_question
+Remove my booking for Friday as soon as possible,cancel_appointment
+Please cancel my appointment as soon as possible,cancel_appointment
+I want to see a doctor about a prescription refill,book_appointment
+Do you accept walk ins,general_question
+Can I reschedule my appointment to Monday morning for my child,reschedule_appointment
+Please cancel my appointment please,cancel_appointment
+Where are you located as soon as possible,general_question
+Can I schedule a visit for test results on Monday morning as soon as possible,book_appointment
+I will not attend my appointment as soon as possible,cancel_appointment
+I will not attend my appointment thanks,cancel_appointment
+Please provide my clinic record,records_request
+Where are you located for my child,general_question
+Can I reschedule my appointment to next week please,reschedule_appointment
+Can you explain my bill,billing_question
+I need a copy of my medical records and I might need help with billing too,records_request
+I need a copy of my medical records thanks,records_request
+I have a question about my invoice for my child,billing_question
+Can you send my test results thanks,records_request
+I need a copy of my medical records thanks,records_request
+Remove my booking for Friday as soon as possible,cancel_appointment
+Can you send my test results please,records_request
+Remove my booking for this afternoon,cancel_appointment
+Change my appointment time to 2 PM please,reschedule_appointment
+Patient check in for a specialist please,check_in
+I will not attend my appointment for my child,cancel_appointment
+I want to see a doctor about test results and I might need help with billing too,general_question
+I want my appointment notes and I might need help with billing too,records_request
+How can I contact the clinic as soon as possible,general_question
+Can I reschedule my appointment to tomorrow,reschedule_appointment
+Can you check me in for my visit as soon as possible,check_in
+I need to cancel my visit with Dr. Anderson as soon as possible,cancel_appointment
+Why was I charged for my visit as soon as possible,billing_question
+I need to cancel my visit with my family doctor as soon as possible,cancel_appointment
+Can you check me in for my visit and I might need help with billing too,check_in
+Do you accept walk ins,general_question
+Book me in with Dr. Chen at 9:30 thanks,book_appointment
+Can you send my test results thanks,records_request
+I cannot make my appointment and need another slot for my child,reschedule_appointment
+I want my appointment notes,records_request
+I will not attend my appointment please,cancel_appointment
+Where are you located and I might need help with billing too,general_question
+I am here to check in for my child,check_in
+I want to see a doctor about a prescription refill,book_appointment
+Where are you located as soon as possible,general_question
+I will not attend my appointment for my child,cancel_appointment
+Please cancel my appointment,cancel_appointment
+I need a copy of my medical records please,records_request
+Can you check me in for my visit as soon as possible,check_in
+Patient check in for a specialist as soon as possible,check_in
+Book me in with the dermatologist at 2 PM for my child,book_appointment
+Can you send my test results as soon as possible,records_request
+Can you send my test results as soon as possible,records_request
+Book me in with a specialist at 2 PM thanks,book_appointment
+I arrived for my appointment and I might need help with billing too,check_in
+Why was I charged for my visit please,billing_question
+I need to move my booking with the dermatologist for my child,reschedule_appointment
+I need to move my booking with a specialist and I might need help with billing too,reschedule_appointment
+Can you send my test results for my child,records_request
+Where are you located as soon as possible,general_question
+I arrived for my appointment as soon as possible,check_in
+Change my appointment time to 9:30 and I might need help with billing too,reschedule_appointment
+I cannot make my appointment and need another slot and I might need help with billing too,reschedule_appointment
+My insurance payment looks wrong for my child,billing_question
+My insurance payment looks wrong and I might need help with billing too,billing_question
+I cannot make my appointment and need another slot please,reschedule_appointment
+I want my appointment notes,records_request
+I will not attend my appointment please,cancel_appointment
+Patient check in for Dr. Anderson,check_in
+What time does the clinic close thanks,general_question
+Can you explain my bill as soon as possible,cancel_appointment
+I need to move my booking with the dermatologist,reschedule_appointment
+Can you send my test results thanks,records_request
+Where are you located and I might need help with billing too,general_question
+Can I schedule a visit for headaches on next week,book_appointment
+Please provide my clinic record please,records_request
+I cannot make my appointment and need another slot please,reschedule_appointment
+Remove my booking for next week please,cancel_appointment
+Remove my booking for next week,cancel_appointment
+Please cancel my appointment please,cancel_appointment
+Can you explain my bill thanks,billing_question
+Please provide my clinic record for my child,records_request
+Remove my booking for next week for my child,cancel_appointment
+I need to cancel my visit with Dr. Anderson as soon as possible,cancel_appointment
+I will not attend my appointment,cancel_appointment
+Do you accept walk ins for my child,general_question
+Can I reschedule my appointment to Friday,reschedule_appointment
+Do you accept walk ins,general_question
+I want my appointment notes for my child,records_request
+How can I contact the clinic please,general_question
+My insurance payment looks wrong,billing_question
+Please cancel my appointment for my child,cancel_appointment
+Why was I charged for my visit and I might need help with billing too,billing_question
+Can I reschedule my appointment to tomorrow for my child,reschedule_appointment
+I have a question about my invoice and I might need help with billing too,billing_question
+Can you check me in for my visit for my child,check_in
+Can you explain my bill for my child,billing_question
+I want my appointment notes,records_request
+I cannot make my appointment and need another slot and I might need help with billing too,reschedule_appointment
+How can I contact the clinic for my child,general_question
+Can you check me in for my visit thanks,billing_question
+Where are you located please,general_question
+Can you check me in for my visit for my child,check_in
+My insurance payment looks wrong,billing_question
+Why was I charged for my visit and I might need help with billing too,billing_question
+I need to cancel my visit with the dermatologist,cancel_appointment
+What time does the clinic close for my child,general_question
+Can I schedule a visit for test results on Monday morning thanks,book_appointment
+Please provide my clinic record,records_request
+I need a copy of my medical records,records_request
+I need to book an appointment with Dr. Anderson for this afternoon as soon as possible,book_appointment
+Can you check me in for my visit thanks,check_in
+I am here to check in please,check_in
+Why was I charged for my visit thanks,billing_question
+Remove my booking for Monday morning please,cancel_appointment
+I need to cancel my visit with Dr. Anderson as soon as possible,cancel_appointment
+I need to book an appointment with the dermatologist for next week,book_appointment
+Book me in with the dermatologist at 2 PM please,book_appointment
+Book me in with a specialist at before work please,book_appointment
+I need to book an appointment with a specialist for next week and I might need help with billing too,book_appointment
+Patient check in for Dr. Anderson,check_in
+Can I reschedule my appointment to tomorrow please,reschedule_appointment
+Can you check me in for my visit,check_in
+What time does the clinic close please,general_question
+I arrived for my appointment for my child,check_in
+I am here to check in please,check_in
+What time does the clinic close please,general_question
+I want my appointment notes as soon as possible,records_request
+I need to cancel my visit with a specialist,cancel_appointment
+Patient check in for my family doctor,check_in
+I arrived for my appointment thanks,check_in
+My insurance payment looks wrong,billing_question
+I have a question about my invoice as soon as possible,billing_question
+I want to see a doctor about a prescription refill as soon as possible,book_appointment
+Can you explain my bill,billing_question
+Book me in with the dermatologist at late afternoon and I might need help with billing too,book_appointment
+Book me in with the dermatologist at before work please,book_appointment
+What time does the clinic close please,general_question
+Can I schedule a visit for a rash on next week as soon as possible,book_appointment
+Do you accept walk ins thanks,general_question
+Can you check me in for my visit as soon as possible,check_in
+Can you explain my bill and I might need help with billing too,billing_question
+I am here to check in please,check_in
+Book me in with Dr. Anderson at 2 PM and I might need help with billing too,book_appointment
+Change my appointment time to before work please,reschedule_appointment
+What time does the clinic close thanks,book_appointment
+I need to cancel my visit with Dr. Chen please,cancel_appointment
+Remove my booking for next week for my child,cancel_appointment
+Can you check me in for my visit as soon as possible,check_in
+Remove my booking for tomorrow and I might need help with billing too,cancel_appointment
+Can I reschedule my appointment to Friday,reschedule_appointment
+Where are you located as soon as possible,general_question
+Can you check me in for my visit thanks,reschedule_appointment
+I need a copy of my medical records thanks,records_request
+What time does the clinic close,general_question
+Change my appointment time to before work thanks,reschedule_appointment
+I will not attend my appointment thanks,cancel_appointment
+I need to cancel my visit with my family doctor,cancel_appointment
+Can you check me in for my visit thanks,check_in
+Book me in with a specialist at after lunch and I might need help with billing too,book_appointment
+I cannot make my appointment and need another slot please,reschedule_appointment
+I cannot make my appointment and need another slot,reschedule_appointment
+I want to see a doctor about a rash for my child,book_appointment
+My insurance payment looks wrong as soon as possible,billing_question
+Why was I charged for my visit and I might need help with billing too,billing_question
+Book me in with the dermatologist at 9:30 as soon as possible,book_appointment
+Where are you located please,records_request
+Change my appointment time to 2 PM and I might need help with billing too,reschedule_appointment
+Can I reschedule my appointment to Friday please,reschedule_appointment
+Can you explain my bill for my child,billing_question
+I will not attend my appointment for my child,cancel_appointment
+I have a question about my invoice as soon as possible,billing_question
+Can I schedule a visit for a follow up on tomorrow as soon as possible,book_appointment
+I want my appointment notes,records_request
+Can I reschedule my appointment to next week for my child,reschedule_appointment
+Please cancel my appointment please,book_appointment
+Can you send my test results please,records_request
+Change my appointment time to 2 PM please,reschedule_appointment
+I have a question about my invoice as soon as possible,records_request
+I need to book an appointment with Dr. Chen for next week,book_appointment
+Can you check me in for my visit for my child,check_in
+I arrived for my appointment thanks,check_in
+Please provide my clinic record thanks,records_request
+Can you check me in for my visit as soon as possible,check_in
+Can you explain my bill,billing_question
+Can you check me in for my visit please,check_in
+Change my appointment time to late afternoon and I might need help with billing too,reschedule_appointment
+I need to move my booking with my family doctor and I might need help with billing too,reschedule_appointment
+Remove my booking for tomorrow as soon as possible,cancel_appointment
+Please provide my clinic record for my child,check_in
+Change my appointment time to after lunch,reschedule_appointment
+I have a question about my invoice for my child,billing_question
+Do you accept walk ins as soon as possible,general_question
+How can I contact the clinic as soon as possible,general_question
+Remove my booking for Monday morning,cancel_appointment
+I want my appointment notes for my child,records_request
+Change my appointment time to before work,cancel_appointment
+Please provide my clinic record for my child,records_request
+Where are you located as soon as possible,general_question
+Why was I charged for my visit thanks,billing_question
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+I need to cancel my visit with Dr. Anderson please,cancel_appointment
+Change my appointment time to before work for my child,reschedule_appointment
+I need a copy of my medical records please,cancel_appointment
+I want my appointment notes as soon as possible,records_request
+Can you explain my bill as soon as possible,billing_question
+Can I reschedule my appointment to Monday morning for my child,reschedule_appointment
+Why was I charged for my visit as soon as possible,billing_question
+Do you accept walk ins please,general_question
+I am here to check in,check_in
+How can I contact the clinic,general_question
+Change my appointment time to 9:30 thanks,reschedule_appointment
+Do you accept walk ins and I might need help with billing too,general_question
+I want my appointment notes thanks,records_request
+I want my appointment notes please,records_request
+I arrived for my appointment and I might need help with billing too,check_in
+Can you send my test results thanks,records_request
+I need a copy of my medical records,records_request
+Please cancel my appointment and I might need help with billing too,cancel_appointment
+Remove my booking for Monday morning as soon as possible,cancel_appointment
+I need to move my booking with a specialist please,check_in
+Can I schedule a visit for test results on tomorrow for my child,book_appointment
+Can I schedule a visit for headaches on Friday for my child,book_appointment
+I need to cancel my visit with the dermatologist,cancel_appointment
+I have a question about my invoice please,billing_question
+Patient check in for Dr. Chen thanks,check_in
+I have a question about my invoice as soon as possible,cancel_appointment
+My insurance payment looks wrong thanks,billing_question
+I want to see a doctor about headaches as soon as possible,book_appointment
+Why was I charged for my visit and I might need help with billing too,billing_question
+Patient check in for my family doctor as soon as possible,check_in
+Book me in with Dr. Chen at 2 PM and I might need help with billing too,book_appointment
+Can I schedule a visit for a follow up on this afternoon please,book_appointment
+I need to book an appointment with my family doctor for tomorrow and I might need help with billing too,book_appointment
+I am here to check in thanks,check_in
+I want to see a doctor about a rash for my child,book_appointment
+Where are you located please,general_question
+How can I contact the clinic and I might need help with billing too,general_question
+Please cancel my appointment for my child,cancel_appointment
+I arrived for my appointment,check_in
+I want to see a doctor about a rash thanks,book_appointment
+I need to book an appointment with a specialist for next week and I might need help with billing too,book_appointment
+Can you send my test results as soon as possible,records_request
+I need to book an appointment with a specialist for next week,book_appointment
+I need a copy of my medical records please,records_request
+Can you send my test results please,records_request
+I am here to check in and I might need help with billing too,check_in
+I will not attend my appointment,cancel_appointment
+Do you accept walk ins as soon as possible,general_question
+Can I reschedule my appointment to this afternoon thanks,records_request
+I need to cancel my visit with Dr. Chen please,cancel_appointment
+I need a copy of my medical records please,records_request
+Can you explain my bill thanks,billing_question
+I want to see a doctor about knee pain,book_appointment
+I need to cancel my visit with a specialist please,cancel_appointment
+Change my appointment time to 2 PM for my child,reschedule_appointment
+Please cancel my appointment please,cancel_appointment
+Can I schedule a visit for headaches on Monday morning as soon as possible,book_appointment
+Change my appointment time to before work,reschedule_appointment
+Do you accept walk ins please,general_question
+I want to see a doctor about headaches and I might need help with billing too,book_appointment
+Where are you located as soon as possible,general_question
+Change my appointment time to 2 PM please,reschedule_appointment
+I need to cancel my visit with the dermatologist for my child,cancel_appointment
+Can I schedule a visit for test results on next week,book_appointment
+How can I contact the clinic for my child,general_question
+I am here to check in and I might need help with billing too,check_in
+I cannot make my appointment and need another slot please,reschedule_appointment
+Please provide my clinic record thanks,records_request
+Patient check in for Dr. Anderson thanks,check_in
+I need to cancel my visit with a specialist as soon as possible,cancel_appointment
+Please cancel my appointment and I might need help with billing too,cancel_appointment
+Why was I charged for my visit thanks,billing_question
+I am here to check in as soon as possible,check_in
+What time does the clinic close and I might need help with billing too,general_question
+Can you check me in for my visit,check_in
+I have a question about my invoice please,billing_question
+Why was I charged for my visit please,billing_question
+I arrived for my appointment as soon as possible,check_in
+I have a question about my invoice for my child,billing_question
+I will not attend my appointment and I might need help with billing too,cancel_appointment
+Book me in with the dermatologist at late afternoon,book_appointment
+I will not attend my appointment and I might need help with billing too,cancel_appointment
+Where are you located please,general_question
+Please cancel my appointment,cancel_appointment
+Book me in with Dr. Chen at late afternoon and I might need help with billing too,book_appointment
+Can I schedule a visit for test results on Friday and I might need help with billing too,book_appointment
+Change my appointment time to 9:30 for my child,reschedule_appointment
+Please provide my clinic record as soon as possible,records_request
+I want to see a doctor about a prescription refill and I might need help with billing too,book_appointment
+Remove my booking for next week please,cancel_appointment
+Can you check me in for my visit and I might need help with billing too,check_in
+Book me in with Dr. Anderson at before work please,book_appointment
+I need to move my booking with Dr. Chen for my child,reschedule_appointment
+Can I schedule a visit for test results on this afternoon for my child,book_appointment
+I will not attend my appointment,cancel_appointment
+I want my appointment notes for my child,billing_question
+What time does the clinic close thanks,general_question
+How can I contact the clinic and I might need help with billing too,general_question
+My insurance payment looks wrong as soon as possible,billing_question
+Can you check me in for my visit as soon as possible,check_in
+Can I reschedule my appointment to Friday,reschedule_appointment
+Can you send my test results,records_request
+I cannot make my appointment and need another slot for my child,reschedule_appointment
+What time does the clinic close for my child,general_question
+Where are you located thanks,general_question
+Change my appointment time to after lunch,reschedule_appointment
+I am here to check in and I might need help with billing too,check_in
+Can you check me in for my visit,check_in
+I need a copy of my medical records,records_request
+I have a question about my invoice as soon as possible,billing_question
+Can I schedule a visit for a rash on next week for my child,book_appointment
+Can I reschedule my appointment to Monday morning please,reschedule_appointment
+Can you send my test results and I might need help with billing too,records_request
+I need to move my booking with the dermatologist and I might need help with billing too,reschedule_appointment
+Remove my booking for this afternoon,cancel_appointment
+Can you send my test results as soon as possible,records_request
+Can you explain my bill please,billing_question
+Please cancel my appointment for my child,cancel_appointment
+I have a question about my invoice please,billing_question
+I want my appointment notes please,records_request
+I will not attend my appointment please,reschedule_appointment
+I need to book an appointment with the dermatologist for this afternoon thanks,book_appointment
+How can I contact the clinic for my child,general_question
+Change my appointment time to late afternoon and I might need help with billing too,reschedule_appointment
+Do you accept walk ins thanks,general_question
+Can you check me in for my visit,check_in
+What time does the clinic close please,general_question
+I need to cancel my visit with Dr. Anderson please,cancel_appointment
+I have a question about my invoice please,general_question
+How can I contact the clinic,general_question
+I need to book an appointment with my family doctor for tomorrow,book_appointment
+Can I reschedule my appointment to next week and I might need help with billing too,reschedule_appointment
+Can I schedule a visit for a rash on next week thanks,book_appointment
+I arrived for my appointment thanks,check_in
+Remove my booking for this afternoon,cancel_appointment
+Where are you located for my child,general_question
+Do you accept walk ins and I might need help with billing too,general_question
+I need to book an appointment with the dermatologist for this afternoon and I might need help with billing too,records_request
+Can I reschedule my appointment to next week as soon as possible,reschedule_appointment
+My insurance payment looks wrong,billing_question
+Remove my booking for this afternoon,cancel_appointment
+I will not attend my appointment,cancel_appointment
+I need a copy of my medical records please,records_request
+How can I contact the clinic for my child,general_question
+I need to cancel my visit with the dermatologist thanks,cancel_appointment
+I need to move my booking with a specialist,reschedule_appointment
+I will not attend my appointment,cancel_appointment
+I need a copy of my medical records,records_request
+Can you explain my bill,billing_question
+How can I contact the clinic thanks,general_question
+Do you accept walk ins please,check_in
+Change my appointment time to late afternoon and I might need help with billing too,reschedule_appointment
+I want to see a doctor about a prescription refill and I might need help with billing too,book_appointment
+I need to cancel my visit with a specialist for my child,cancel_appointment
+What time does the clinic close thanks,general_question
+What time does the clinic close as soon as possible,general_question
+I arrived for my appointment as soon as possible,check_in
+Patient check in for my family doctor please,check_in
+I arrived for my appointment thanks,check_in
+Can I schedule a visit for a rash on this afternoon,book_appointment
+Change my appointment time to 9:30 for my child,reschedule_appointment
+Can you explain my bill for my child,billing_question
+I have a question about my invoice for my child,billing_question
+I want my appointment notes,records_request
+I need to book an appointment with Dr. Anderson for Monday morning for my child,book_appointment
+Can I schedule a visit for a follow up on Friday for my child,book_appointment
+How can I contact the clinic as soon as possible,general_question
+Do you accept walk ins thanks,general_question
+Please provide my clinic record,records_request
+I arrived for my appointment as soon as possible,check_in
+Do you accept walk ins thanks,general_question
+What time does the clinic close thanks,general_question
+Can I reschedule my appointment to Monday morning and I might need help with billing too,reschedule_appointment
+Can I schedule a visit for a prescription refill on Friday for my child,book_appointment
+I need a copy of my medical records and I might need help with billing too,records_request
+I need to move my booking with Dr. Chen thanks,reschedule_appointment
+What time does the clinic close please,general_question
+Change my appointment time to 9:30 and I might need help with billing too,reschedule_appointment
+I want my appointment notes please,records_request
+Book me in with my family doctor at 9:30 thanks,book_appointment
+Can I schedule a visit for a rash on tomorrow for my child,book_appointment
+Change my appointment time to 2 PM thanks,reschedule_appointment
+Can I reschedule my appointment to Monday morning and I might need help with billing too,reschedule_appointment
+Please provide my clinic record please,records_request
+My insurance payment looks wrong please,billing_question
+I will not attend my appointment,cancel_appointment
+I need to book an appointment with my family doctor for Monday morning for my child,book_appointment
+I will not attend my appointment and I might need help with billing too,cancel_appointment
+Where are you located and I might need help with billing too,general_question
+Can I reschedule my appointment to tomorrow for my child,reschedule_appointment
+What time does the clinic close please,general_question
+Patient check in for my family doctor please,check_in
+I need to move my booking with a specialist as soon as possible,reschedule_appointment
+Remove my booking for tomorrow for my child,cancel_appointment
+Patient check in for the dermatologist please,check_in
+Do you accept walk ins for my child,general_question
+I have a question about my invoice and I might need help with billing too,billing_question
+Please provide my clinic record thanks,records_request
+Where are you located for my child,general_question
+I need to move my booking with Dr. Anderson thanks,reschedule_appointment
+I need to move my booking with the dermatologist thanks,reschedule_appointment
+Change my appointment time to 2 PM thanks,reschedule_appointment
+Can I reschedule my appointment to this afternoon please,reschedule_appointment
+Change my appointment time to after lunch please,reschedule_appointment
+My insurance payment looks wrong as soon as possible,billing_question
+Where are you located,general_question
+What time does the clinic close thanks,general_question
+How can I contact the clinic and I might need help with billing too,general_question
+What time does the clinic close for my child,general_question
+I need to book an appointment with my family doctor for this afternoon thanks,book_appointment
+Please cancel my appointment please,cancel_appointment
+Remove my booking for this afternoon please,cancel_appointment
+Where are you located please,general_question
+Remove my booking for next week thanks,cancel_appointment
+Can you explain my bill as soon as possible,billing_question
+What time does the clinic close and I might need help with billing too,general_question
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+I want to see a doctor about a prescription refill please,book_appointment
+Book me in with a specialist at late afternoon please,reschedule_appointment
+I am here to check in and I might need help with billing too,check_in
+Why was I charged for my visit for my child,billing_question
+Can I schedule a visit for knee pain on next week for my child,book_appointment
+Can you send my test results thanks,records_request
+I need a copy of my medical records please,records_request
+Where are you located for my child,general_question
+Book me in with the dermatologist at before work thanks,book_appointment
+Can I schedule a visit for a rash on Monday morning please,book_appointment
+Can you explain my bill and I might need help with billing too,billing_question
+Patient check in for the dermatologist please,book_appointment
+Book me in with a specialist at 9:30,book_appointment
+Why was I charged for my visit thanks,billing_question
+Change my appointment time to before work and I might need help with billing too,reschedule_appointment
+Can you explain my bill and I might need help with billing too,billing_question
+Can you check me in for my visit,check_in
+My insurance payment looks wrong as soon as possible,billing_question
+I have a question about my invoice please,check_in
+I arrived for my appointment please,check_in
+Book me in with the dermatologist at after lunch and I might need help with billing too,book_appointment
+How can I contact the clinic,general_question
+Please cancel my appointment and I might need help with billing too,cancel_appointment
+Book me in with Dr. Anderson at 2 PM and I might need help with billing too,book_appointment
+Can you explain my bill thanks,billing_question
+I need to book an appointment with Dr. Chen for this afternoon as soon as possible,book_appointment
+Can you send my test results please,records_request
+I need to book an appointment with the dermatologist for Monday morning for my child,book_appointment
+I need to move my booking with the dermatologist and I might need help with billing too,reschedule_appointment
+How can I contact the clinic please,general_question
+Please provide my clinic record thanks,records_request
+Can I schedule a visit for a prescription refill on Friday and I might need help with billing too,book_appointment
+Can I schedule a visit for a rash on this afternoon,book_appointment
+I need to book an appointment with Dr. Chen for tomorrow thanks,book_appointment
+What time does the clinic close and I might need help with billing too,general_question
+Please provide my clinic record for my child,check_in
+I want to see a doctor about a follow up,book_appointment
+Why was I charged for my visit as soon as possible,billing_question
+Can I reschedule my appointment to Monday morning thanks,reschedule_appointment
+I want to see a doctor about a rash please,book_appointment
+Where are you located,general_question
+I need to cancel my visit with the dermatologist,cancel_appointment
+I need to book an appointment with Dr. Chen for next week as soon as possible,book_appointment
+I arrived for my appointment for my child,check_in
+Can you send my test results,cancel_appointment
+Where are you located thanks,general_question
+Book me in with Dr. Chen at before work please,book_appointment
+What time does the clinic close,general_question
+Can you explain my bill as soon as possible,billing_question
+How can I contact the clinic for my child,general_question
+I need to cancel my visit with a specialist,cancel_appointment
+I am here to check in as soon as possible,check_in
+Change my appointment time to after lunch and I might need help with billing too,reschedule_appointment
+Patient check in for Dr. Anderson thanks,check_in
+Do you accept walk ins thanks,general_question
+Do you accept walk ins please,general_question
+I need a copy of my medical records please,records_request
+I will not attend my appointment thanks,cancel_appointment
+I need to cancel my visit with Dr. Anderson as soon as possible,cancel_appointment
+I need to book an appointment with a specialist for Monday morning thanks,book_appointment
+My insurance payment looks wrong and I might need help with billing too,billing_question
+I will not attend my appointment,cancel_appointment
+I need to book an appointment with a specialist for tomorrow and I might need help with billing too,book_appointment
+I will not attend my appointment for my child,cancel_appointment
+Remove my booking for this afternoon as soon as possible,cancel_appointment
+Book me in with Dr. Chen at late afternoon please,reschedule_appointment
+How can I contact the clinic please,general_question
+Please cancel my appointment for my child,cancel_appointment
+Please provide my clinic record and I might need help with billing too,records_request
+Do you accept walk ins thanks,general_question
+How can I contact the clinic as soon as possible,general_question
+Can you send my test results for my child,records_request
+I want my appointment notes for my child,records_request
+I need to cancel my visit with my family doctor and I might need help with billing too,cancel_appointment
+I need to move my booking with Dr. Anderson as soon as possible,reschedule_appointment
+Please cancel my appointment,cancel_appointment
+Change my appointment time to before work as soon as possible,reschedule_appointment
+Do you accept walk ins please,general_question
+I need a copy of my medical records for my child,records_request
+How can I contact the clinic please,general_question
+Can you send my test results thanks,records_request
+My insurance payment looks wrong thanks,book_appointment
+Can I reschedule my appointment to Monday morning and I might need help with billing too,reschedule_appointment
+Can you explain my bill thanks,billing_question
+Remove my booking for next week,cancel_appointment
+I need to move my booking with my family doctor and I might need help with billing too,reschedule_appointment
+Can you send my test results please,reschedule_appointment
+Can you check me in for my visit and I might need help with billing too,check_in
+I arrived for my appointment and I might need help with billing too,check_in
+I arrived for my appointment thanks,check_in
+I want my appointment notes for my child,records_request
+I will not attend my appointment for my child,cancel_appointment
+I need to book an appointment with Dr. Anderson for next week thanks,book_appointment
+I need to cancel my visit with my family doctor for my child,cancel_appointment
+Change my appointment time to before work please,reschedule_appointment
+Can you explain my bill as soon as possible,billing_question
+Do you accept walk ins as soon as possible,general_question
+Can you explain my bill for my child,billing_question
+I want my appointment notes for my child,check_in
+I need to move my booking with Dr. Chen thanks,reschedule_appointment
+I cannot make my appointment and need another slot please,records_request
+I will not attend my appointment thanks,cancel_appointment
+Please cancel my appointment as soon as possible,cancel_appointment
+Can I reschedule my appointment to this afternoon thanks,reschedule_appointment
+I need a copy of my medical records and I might need help with billing too,records_request
+Do you accept walk ins for my child,general_question
+Change my appointment time to late afternoon please,reschedule_appointment
+Patient check in for Dr. Anderson thanks,check_in
+I need to cancel my visit with my family doctor thanks,cancel_appointment
+Please provide my clinic record for my child,records_request
+I want to see a doctor about a rash as soon as possible,book_appointment
+Why was I charged for my visit please,billing_question
+I will not attend my appointment please,cancel_appointment
+How can I contact the clinic as soon as possible,general_question
+Can you check me in for my visit and I might need help with billing too,check_in
+I have a question about my invoice and I might need help with billing too,billing_question
+I am here to check in please,check_in
+Why was I charged for my visit for my child,billing_question
+I cannot make my appointment and need another slot thanks,reschedule_appointment
+I need to cancel my visit with my family doctor and I might need help with billing too,billing_question
+I need a copy of my medical records thanks,records_request
+Where are you located,general_question
+Why was I charged for my visit please,billing_question
+I need to move my booking with a specialist and I might need help with billing too,reschedule_appointment
+How can I contact the clinic please,general_question
+I need to cancel my visit with Dr. Chen and I might need help with billing too,cancel_appointment
+I arrived for my appointment thanks,check_in
+Can I schedule a visit for a follow up on Friday as soon as possible,book_appointment
+I cannot make my appointment and need another slot for my child,reschedule_appointment
+I need a copy of my medical records thanks,records_request
+Can I reschedule my appointment to this afternoon,reschedule_appointment
+I arrived for my appointment,check_in
+I will not attend my appointment thanks,cancel_appointment
+I will not attend my appointment thanks,cancel_appointment
+I want to see a doctor about test results,book_appointment
+I arrived for my appointment,book_appointment
+Remove my booking for Monday morning and I might need help with billing too,cancel_appointment
+I need to move my booking with Dr. Chen,reschedule_appointment
+I have a question about my invoice as soon as possible,billing_question
+Can you check me in for my visit for my child,check_in
+I am here to check in thanks,check_in
+Change my appointment time to 2 PM,reschedule_appointment
+Why was I charged for my visit thanks,billing_question
+I have a question about my invoice as soon as possible,billing_question
+I arrived for my appointment please,check_in
+Please provide my clinic record and I might need help with billing too,records_request
+What time does the clinic close,general_question
+Can you send my test results and I might need help with billing too,records_request
+I need to cancel my visit with Dr. Chen thanks,cancel_appointment
+Can I reschedule my appointment to tomorrow please,reschedule_appointment
+Where are you located,general_question
+I am here to check in please,check_in
+I want to see a doctor about a rash thanks,book_appointment
+I need to book an appointment with the dermatologist for Monday morning please,book_appointment
+I need to cancel my visit with the dermatologist,cancel_appointment
+Please cancel my appointment,cancel_appointment
+I need a copy of my medical records,records_request
+My insurance payment looks wrong thanks,billing_question
+I have a question about my invoice,billing_question
+Do you accept walk ins,general_question
+I arrived for my appointment,check_in
+I need to cancel my visit with Dr. Anderson,cancel_appointment
+I need to cancel my visit with the dermatologist,cancel_appointment
+I want to see a doctor about knee pain,book_appointment
+Please provide my clinic record,records_request
+My insurance payment looks wrong for my child,billing_question
+Please cancel my appointment please,cancel_appointment
+Can you explain my bill please,general_question
+Can I reschedule my appointment to Monday morning thanks,reschedule_appointment
+Why was I charged for my visit,billing_question
+Do you accept walk ins,general_question
+Change my appointment time to before work please,reschedule_appointment
+Patient check in for my family doctor,check_in
+Can I schedule a visit for knee pain on next week thanks,book_appointment
+Change my appointment time to before work for my child,reschedule_appointment
+Why was I charged for my visit,general_question
+Please provide my clinic record thanks,records_request
+I have a question about my invoice for my child,billing_question
+Book me in with a specialist at 2 PM for my child,book_appointment
+Can you send my test results as soon as possible,records_request
+I need to cancel my visit with a specialist please,cancel_appointment
+Patient check in for Dr. Chen for my child,general_question
+How can I contact the clinic thanks,general_question
+I need to cancel my visit with my family doctor thanks,cancel_appointment
+Can you check me in for my visit as soon as possible,billing_question
+I need to move my booking with my family doctor and I might need help with billing too,reschedule_appointment
+Patient check in for the dermatologist thanks,check_in
+What time does the clinic close as soon as possible,general_question
+I want to see a doctor about a prescription refill and I might need help with billing too,book_appointment
+I need to book an appointment with Dr. Chen for this afternoon and I might need help with billing too,book_appointment
+I need to move my booking with my family doctor,reschedule_appointment
+Why was I charged for my visit thanks,billing_question
+Change my appointment time to 9:30 and I might need help with billing too,reschedule_appointment
+Patient check in for Dr. Anderson as soon as possible,check_in
+Patient check in for my family doctor please,check_in
+Do you accept walk ins,cancel_appointment
+I arrived for my appointment please,check_in
+Do you accept walk ins and I might need help with billing too,general_question
+Can I schedule a visit for a rash on tomorrow and I might need help with billing too,records_request
+My insurance payment looks wrong and I might need help with billing too,billing_question
+Please provide my clinic record as soon as possible,records_request
+I arrived for my appointment for my child,check_in
+I am here to check in,check_in
+Why was I charged for my visit,billing_question
+Can you send my test results as soon as possible,records_request
+I need a copy of my medical records and I might need help with billing too,records_request
+I arrived for my appointment for my child,check_in
+I arrived for my appointment please,check_in
+Can I schedule a visit for a rash on Friday for my child,book_appointment
+Please cancel my appointment please,cancel_appointment
+Can you check me in for my visit and I might need help with billing too,check_in
+Why was I charged for my visit for my child,billing_question
+Can I schedule a visit for knee pain on Friday for my child,book_appointment
+How can I contact the clinic please,general_question
+I want my appointment notes and I might need help with billing too,records_request
+Remove my booking for this afternoon,cancel_appointment
+I need to move my booking with Dr. Anderson please,reschedule_appointment
+Why was I charged for my visit please,billing_question
+I have a question about my invoice,billing_question
+Please provide my clinic record,cancel_appointment
+I need to cancel my visit with Dr. Chen for my child,cancel_appointment
+I want my appointment notes as soon as possible,records_request
+Do you accept walk ins thanks,book_appointment
+I want my appointment notes please,records_request
+Remove my booking for Monday morning thanks,cancel_appointment
+Please cancel my appointment thanks,cancel_appointment
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+Do you accept walk ins please,general_question
+Why was I charged for my visit thanks,billing_question
+Can you send my test results for my child,records_request
+Do you accept walk ins and I might need help with billing too,general_question
+What time does the clinic close,general_question
+Can you check me in for my visit for my child,check_in
+I will not attend my appointment and I might need help with billing too,cancel_appointment
+Remove my booking for next week as soon as possible,cancel_appointment
+I want to see a doctor about a prescription refill please,book_appointment
+What time does the clinic close for my child,general_question
+Please provide my clinic record as soon as possible,records_request
+Change my appointment time to 9:30,reschedule_appointment
+I have a question about my invoice,billing_question
+I need to cancel my visit with a specialist,cancel_appointment
+Patient check in for a specialist please,check_in
+I need to book an appointment with a specialist for next week please,book_appointment
+Can I reschedule my appointment to next week for my child,reschedule_appointment
+I need to move my booking with my family doctor thanks,reschedule_appointment
+I need a copy of my medical records and I might need help with billing too,records_request
+I want to see a doctor about headaches for my child,book_appointment
+Please provide my clinic record for my child,book_appointment
+Remove my booking for this afternoon thanks,cancel_appointment
+I want to see a doctor about test results as soon as possible,book_appointment
+I arrived for my appointment thanks,check_in
+Can you send my test results please,records_request
+Can you explain my bill,billing_question
+I will not attend my appointment for my child,cancel_appointment
+Can you check me in for my visit thanks,check_in
+I have a question about my invoice please,billing_question
+Patient check in for Dr. Chen and I might need help with billing too,check_in
+I need to cancel my visit with a specialist,cancel_appointment
+I need a copy of my medical records as soon as possible,records_request
+Change my appointment time to before work please,reschedule_appointment
+I arrived for my appointment thanks,check_in
+Do you accept walk ins,general_question
+Do you accept walk ins,general_question
+Patient check in for Dr. Anderson and I might need help with billing too,check_in
+Please cancel my appointment,cancel_appointment
+Book me in with Dr. Anderson at before work and I might need help with billing too,book_appointment
+Can you explain my bill thanks,billing_question
+Please provide my clinic record for my child,records_request
+Please provide my clinic record and I might need help with billing too,records_request
+Where are you located,general_question
+I want my appointment notes for my child,records_request
+I am here to check in for my child,check_in
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+Change my appointment time to before work,reschedule_appointment
+Where are you located and I might need help with billing too,general_question
+I have a question about my invoice thanks,billing_question
+I have a question about my invoice as soon as possible,billing_question
+Can you send my test results,records_request
+I want to see a doctor about a follow up and I might need help with billing too,book_appointment
+Please cancel my appointment and I might need help with billing too,cancel_appointment
+Change my appointment time to 9:30 thanks,reschedule_appointment
+Can I schedule a visit for headaches on Friday please,book_appointment
+Can I reschedule my appointment to tomorrow please,reschedule_appointment
+I need to cancel my visit with my family doctor for my child,cancel_appointment
+Patient check in for Dr. Anderson for my child,check_in
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+Can you explain my bill please,billing_question
+I want to see a doctor about headaches,book_appointment
+Patient check in for the dermatologist for my child,check_in
+Book me in with Dr. Anderson at 9:30 for my child,book_appointment
+Can you explain my bill thanks,billing_question
+I need a copy of my medical records thanks,records_request
+Do you accept walk ins please,general_question
+I am here to check in for my child,general_question
+I arrived for my appointment for my child,check_in
+Can I schedule a visit for a prescription refill on this afternoon as soon as possible,book_appointment
+Remove my booking for tomorrow please,cancel_appointment
+Book me in with my family doctor at 2 PM as soon as possible,book_appointment
+How can I contact the clinic as soon as possible,general_question
+I am here to check in thanks,check_in
+I cannot make my appointment and need another slot and I might need help with billing too,reschedule_appointment
+Change my appointment time to 2 PM and I might need help with billing too,reschedule_appointment
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+I want my appointment notes please,records_request
+Change my appointment time to after lunch thanks,reschedule_appointment
+I need to move my booking with my family doctor please,cancel_appointment
+Can you explain my bill please,billing_question
+I arrived for my appointment and I might need help with billing too,check_in
+Can you send my test results thanks,records_request
+Do you accept walk ins and I might need help with billing too,check_in
+How can I contact the clinic for my child,general_question
+Remove my booking for next week,cancel_appointment
+Book me in with my family doctor at before work please,book_appointment
+Why was I charged for my visit thanks,billing_question
+I cannot make my appointment and need another slot for my child,reschedule_appointment
+I need a copy of my medical records as soon as possible,records_request
+I need to move my booking with Dr. Chen please,reschedule_appointment
+Book me in with the dermatologist at 2 PM,book_appointment
+I will not attend my appointment as soon as possible,cancel_appointment
+What time does the clinic close thanks,general_question
+Why was I charged for my visit for my child,billing_question
+I will not attend my appointment as soon as possible,cancel_appointment
+Please cancel my appointment as soon as possible,cancel_appointment
+Please provide my clinic record please,records_request
+I want my appointment notes and I might need help with billing too,records_request
+Can you explain my bill thanks,billing_question
+My insurance payment looks wrong please,billing_question
+Can I reschedule my appointment to next week thanks,reschedule_appointment
+Can I schedule a visit for headaches on Monday morning,book_appointment
+Why was I charged for my visit for my child,billing_question
+Can I reschedule my appointment to next week,reschedule_appointment
+Patient check in for Dr. Chen,check_in
+I need to book an appointment with my family doctor for Monday morning and I might need help with billing too,book_appointment
+Please provide my clinic record please,records_request
+Can you check me in for my visit please,check_in
+I cannot make my appointment and need another slot and I might need help with billing too,reschedule_appointment
+Remove my booking for this afternoon thanks,cancel_appointment
+My insurance payment looks wrong as soon as possible,billing_question
+Can you explain my bill,billing_question
+Remove my booking for tomorrow and I might need help with billing too,cancel_appointment
+I want my appointment notes,records_request
+I want my appointment notes for my child,records_request
+Book me in with Dr. Chen at after lunch as soon as possible,book_appointment
+Book me in with my family doctor at before work thanks,book_appointment
+I need to book an appointment with a specialist for Monday morning please,book_appointment
+I need to cancel my visit with Dr. Chen,cancel_appointment
+How can I contact the clinic,general_question
+How can I contact the clinic and I might need help with billing too,cancel_appointment
+I have a question about my invoice for my child,billing_question
+I arrived for my appointment thanks,check_in
+I need to cancel my visit with a specialist,cancel_appointment
+I cannot make my appointment and need another slot thanks,reschedule_appointment
+I have a question about my invoice,billing_question
+Book me in with my family doctor at before work for my child,book_appointment
+Book me in with Dr. Anderson at 9:30 please,reschedule_appointment
+I need to cancel my visit with a specialist thanks,cancel_appointment
+I cannot make my appointment and need another slot as soon as possible,reschedule_appointment
+Can I reschedule my appointment to Friday,reschedule_appointment
+Can I schedule a visit for headaches on this afternoon please,book_appointment
+Can I schedule a visit for headaches on Monday morning as soon as possible,book_appointment
+Can you check me in for my visit and I might need help with billing too,check_in
+Please provide my clinic record please,records_request
+Can you send my test results and I might need help with billing too,records_request
+Do you accept walk ins as soon as possible,general_question
+Can you check me in for my visit please,check_in
+I want to see a doctor about a prescription refill and I might need help with billing too,book_appointment
+I am here to check in and I might need help with billing too,check_in
+I need to move my booking with Dr. Chen as soon as possible,reschedule_appointment
+Please cancel my appointment for my child,cancel_appointment
+Book me in with Dr. Anderson at late afternoon as soon as possible,book_appointment
+Can I reschedule my appointment to Monday morning for my child,reschedule_appointment
+I need to cancel my visit with a specialist as soon as possible,cancel_appointment
+I want to see a doctor about test results and I might need help with billing too,cancel_appointment
+Can I reschedule my appointment to Friday and I might need help with billing too,reschedule_appointment
+Change my appointment time to after lunch and I might need help with billing too,reschedule_appointment
+How can I contact the clinic,general_question
+Can I schedule a visit for headaches on next week as soon as possible,book_appointment
+I am here to check in,check_in
+Book me in with my family doctor at late afternoon please,reschedule_appointment
+Can I reschedule my appointment to Monday morning thanks,reschedule_appointment
+Why was I charged for my visit please,billing_question
+Can you send my test results,records_request
+I need to move my booking with Dr. Chen and I might need help with billing too,reschedule_appointment
+Can you explain my bill and I might need help with billing too,billing_question
+I need to move my booking with the dermatologist as soon as possible,reschedule_appointment
+My insurance payment looks wrong as soon as possible,billing_question
+I cannot make my appointment and need another slot for my child,reschedule_appointment
+Do you accept walk ins for my child,general_question
+I need to move my booking with the dermatologist thanks,reschedule_appointment
+Remove my booking for tomorrow please,cancel_appointment
+What time does the clinic close for my child,general_question
+Remove my booking for tomorrow thanks,cancel_appointment
+Please provide my clinic record,records_request
+I will not attend my appointment and I might need help with billing too,cancel_appointment
+Patient check in for my family doctor as soon as possible,check_in
+I need to cancel my visit with my family doctor and I might need help with billing too,cancel_appointment
+My insurance payment looks wrong please,billing_question
+I want to see a doctor about knee pain thanks,book_appointment
+I want my appointment notes please,records_request
+Do you accept walk ins please,general_question
+I need to move my booking with my family doctor for my child,reschedule_appointment
+I am here to check in thanks,check_in
+Can you send my test results for my child,records_request
+I have a question about my invoice as soon as possible,billing_question
+Remove my booking for tomorrow thanks,cancel_appointment
+I cannot make my appointment and need another slot thanks,reschedule_appointment
+I want to see a doctor about knee pain please,book_appointment
+Can you explain my bill and I might need help with billing too,billing_question
+Can you send my test results,records_request
+I need a copy of my medical records for my child,records_request
+Book me in with Dr. Chen at 2 PM for my child,book_appointment
+Remove my booking for this afternoon and I might need help with billing too,cancel_appointment
+Can you check me in for my visit,check_in
+I want my appointment notes please,records_request
+Can I schedule a visit for headaches on Friday please,book_appointment
+Patient check in for my family doctor thanks,check_in
+Where are you located as soon as possible,general_question
+I have a question about my invoice please,billing_question
+My insurance payment looks wrong thanks,billing_question
+I cannot make my appointment and need another slot,reschedule_appointment
+I need to book an appointment with the dermatologist for this afternoon as soon as possible,book_appointment
+Can you check me in for my visit as soon as possible,check_in
+Can I schedule a visit for headaches on Monday morning please,book_appointment
+I have a question about my invoice thanks,billing_question
+I want my appointment notes thanks,book_appointment
+I need to book an appointment with Dr. Chen for next week,book_appointment
+Please provide my clinic record and I might need help with billing too,records_request
+Can you check me in for my visit thanks,check_in
+I have a question about my invoice and I might need help with billing too,billing_question
+I want my appointment notes,records_request
+Book me in with Dr. Chen at late afternoon please,book_appointment
+Can you explain my bill,billing_question
+I have a question about my invoice for my child,billing_question
+I arrived for my appointment for my child,check_in
+What time does the clinic close for my child,general_question
+Can I schedule a visit for a prescription refill on Friday and I might need help with billing too,book_appointment
+Why was I charged for my visit and I might need help with billing too,billing_question
+Remove my booking for this afternoon,cancel_appointment
+How can I contact the clinic please,general_question
+Can you check me in for my visit please,check_in
+Please provide my clinic record please,records_request
+I have a question about my invoice as soon as possible,billing_question
+I want my appointment notes,records_request
+I need to book an appointment with the dermatologist for this afternoon and I might need help with billing too,book_appointment
+Can I schedule a visit for headaches on Friday for my child,book_appointment
+Can you explain my bill thanks,billing_question
+I have a question about my invoice please,billing_question
+Remove my booking for Friday as soon as possible,cancel_appointment
+My insurance payment looks wrong,billing_question
+Remove my booking for Monday morning for my child,cancel_appointment
+I am here to check in and I might need help with billing too,check_in
+Do you accept walk ins,check_in
+Do you accept walk ins thanks,general_question
+Can I reschedule my appointment to this afternoon please,reschedule_appointment
+I need a copy of my medical records please,records_request
+Can you explain my bill,reschedule_appointment
+Can you explain my bill for my child,billing_question
+Change my appointment time to before work thanks,reschedule_appointment
+I am here to check in,check_in
+I arrived for my appointment and I might need help with billing too,book_appointment

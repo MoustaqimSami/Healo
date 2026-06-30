@@ -1,1 +1,0 @@
-window.Dashboard = window.Dashboard || {};

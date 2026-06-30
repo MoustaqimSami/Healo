@@ -1,187 +1,120 @@
-# Greenwood Medical Clinic
-
-## Appointment & Patient Management Prototype
-
-CPSC 481 – Interaction Design Portfolio II (Fall 2025)
-
----
-
-## 🔗 Live Demo
-
-[https://greenwood-medical-center-qfrw.vercel.app/](https://greenwood-medical-center-qfrw.vercel.app/)
-
-*Best viewed at: 1800 × 1100*
-
-## 🔐 Login Credentials
-
-- **Email:** [selena@gmcclinic.com](mailto:selena@gmcclinic.com)
-- **Password:** password123
-
----
-
-This repository contains a high-fidelity prototype of Greenwood Medical Clinic’s internal workflow system for front-desk staff.
-It is built using **plain HTML, CSS, and JavaScript**, and deployed on **Vercel**, with data stored in simulated in-memory structures.
-
-The prototype demonstrates a complete day in the life of a receptionist — including adding patients, booking appointments, rescheduling, cancellations, check-ins, follow-ups, and billing.
-
----
-
-## 1. Overview
-
-Greenwood Medical Clinic requires a reliable, intuitive system that minimizes errors while supporting fast-paced administrative work. This prototype was designed to:
-
-- Streamline **patient lookup, registration, and appointment booking**
-- Provide strong **visibility of system status**, preventing confusion or errors
-- Support real clinic workflows via **shortcuts, consistent UI patterns, and persistent state**
-- Reduce cognitive load so staff can complete tasks quickly and confidently
-
-Our focus was not on backend development but on creating a **functional, realistic front-end experience** tailored to real-world needs.
-
----
-
-## 2. System Walkthrough (Demo Flow)
-
-This walkthrough matches the recommended flow for marking. It highlights features that may otherwise be missed.
-
-### **1. Login**
-
-Selena logs in and lands on a dashboard showing:
-
-- Today’s appointments
-- Doctors available
-- Quick access to patient records and schedules
-
-### **2. Adding a new patient**
-
-A new caller wishes to book an appointment.
-Selena navigates to **Add Patient**, enters the AHS number, and the system **autofills their information** - reducing manual entry errors.
-
-### **3. Booking an appointment for Janet**
-
-- Selena searches for Janet from the patient list
-- Opens **Book Appointment**
-- Selects the doctor
-- Chooses an available time slot (doctor availability rules are enforced)
-- Confirms the appointment, which appears **immediately** on the doctor’s schedule
-
-### **4. Another patient, Chloe, calls**
-
-Selena uses the **Book Appointment Shortcut** on the dashboard, demonstrating workflow efficiency.
-
-### **5. Rescheduling Chloe’s appointment**
-
-- Opening the appointment modal shows all details
-- Selena clicks **Reschedule**
-- A **persistent rescheduling banner** stays visible even after closing the modal, preventing context loss
-- The system **blocks unavailable times** and shows clear error messages
-
-### **6. Cancelling the appointment**
-
-- Selena cancels the appointment
-- Cancellation behaves the same from both the patient and doctor views, ensuring consistency
-- The dashboard updates immediately
-
-### **7. Patient check-in and appointment completion**
-
-Later, a patient arrives:
-
-- Selena checks them in
-- After the appointment, Selena marks it as **Completed**
-- The system now enables **Follow-Up**, while preventing accidental edits to completed fields
-
-### **8. End-of-day billing**
-
-Selena processes billing based on the day’s appointments.
-The front-end billing module:
-
-- Shows billable appointments
-- Allows marking entries as paid
-- Keeps billing and appointment states consistent
-
-This demo covers the entire lifecycle of a clinic visit - from first contact to billing.
-
----
-
-## 3. Features Implemented
-
-### Login & Session
-
-- Basic credential system
-- Error handling for incorrect inputs
-
-### Patient Management
-
-- Add new patients manually (AHS auto-fill is a planned feature and is not implemented in this prototype)
-- Comprehensive patient profiles
-- Search by **name, AHS number, phone, or ID**
-
-### Appointment Booking
-
-- Complete weekly doctor schedule
-- Logical time blocking (no double-booking or off-hours booking)
-- Booking modal includes:
-
-  - Doctor & patient selector
-  - Selected time
-  - Full confirmation summary
-
-### Rescheduling
-
-- Persistent “rescheduling mode” indicator
-- Appointment details retain previous inputs
-- Errors shown when choosing invalid time slots
-
-### Cancellation
-
-- Unified behavior across patient and doctor views
-- Clear confirmation modal
-- Immediate UI update
-
-### Check-In, Completion, Follow-Up
-
-- Real-time status updates
-- Completed appointments lock previous fields
-- Follow-up action becomes available after completion
-
-### Billing (Front-End Simulation)
-
-- View all appointments requiring payment
-- Mark items as paid
-- Billing and appointment statuses remain synchronized
-
-### Visual & UX Feedback
-
-- Toast notifications
-- Error and success states
-- Confirmation dialogs
-- Preventive design (e.g., inactive time slots, disabled buttons)
-
----
-
-## 4. Tech Stack & Setup
-
-### **Tech Stack**
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- No backend — uses JS in-memory structures
-- Deployed on **Vercel**
-
-### **Running the Prototype**
-
-No installation needed.
-
-1. Open the Vercel link
-2. Log in using the provided credentials
-3. Use a desktop/laptop browser for best results
-
----
-
-## 5. Team
-
-- **Hamna Asad** – Login Design & System Entry
-- **Grace Ilori** – Dashboard & Schedule Interaction
-- **Ali Khan** – Add Patient + AHS Lookup + Booking Flow
-- **Mohammad Moustaqim** – Reschedule, Cancel, Check-In, Follow-Up
-- **Neel Savani** – Billing System
+# Healo — AI Clinic Management App
+
+A full-stack placeholder implementation for the **Healo AI Clinic Management App** portfolio project. This repo upgrades the original high-fidelity static clinic prototype into a React + TypeScript frontend with a FastAPI/Python backend, relational data models, seeded clinic workflows, and a Naïve Bayes booking-intent classifier.
+
+> Portfolio description supported by this repo:  
+> **Healo - AI Clinic Management App | PERN Stack, Figma, HCI, scikit-learn**  
+> • Designed and built a patient appointment and records system emphasizing accessibility and workflow clarity.  
+> • Trained a Naïve Bayes booking-intent model on 1000+ synthetic request samples, achieving ~92%+ validation accuracy.  
+> • Conducted user interviews across 20 clinics to validate workflows through iterative testing and feedback.
+
+## What this placeholder includes
+
+- React + TypeScript component architecture based on the uploaded HTML/CSS/JS prototype
+- FastAPI backend with REST routing for auth, patients, doctors, appointments, billing, and ML predictions
+- SQLAlchemy database schemas for staff, patients, doctors, availability windows, appointments, invoices, and payments
+- scikit-learn `MultinomialNB` intent model with 1,200+ generated clinic booking requests
+- Seed data that mirrors the Greenwood/Healo clinic flows: receptionist login, patient lookup, appointment booking, rescheduling, check-in/completion, follow-up, and billing
+- A clear 1-to-1 mapping document from the original static files into React components and backend modules
+
+## Repository structure
+
+```txt
+healo-ai-clinic-management/
+├── frontend/                 # React + TypeScript + Vite app
+│   ├── src/
+│   │   ├── api/              # API client wrapper
+│   │   ├── components/       # Layout, UI, appointment components
+│   │   ├── data/             # TypeScript seed data converted from static JS data files
+│   │   ├── hooks/            # Clinic state provider and local persistence
+│   │   ├── pages/            # App pages mapped from uploaded HTML pages
+│   │   ├── styles/           # CSS restructured from uploaded CSS files
+│   │   ├── types/            # Domain types
+│   │   └── utils/            # Date, scheduling, availability helpers
+│   └── public/assets/icons/  # Placeholder SVG icons matching the original asset paths
+├── backend/                  # Python FastAPI backend
+│   ├── app/
+│   │   ├── routers/          # REST API route modules
+│   │   ├── services/         # ML booking-intent service
+│   │   ├── database.py       # SQLite/SQLAlchemy session setup
+│   │   ├── models.py         # Database schemas
+│   │   ├── schemas.py        # Pydantic request/response schemas
+│   │   ├── seed.py           # Demo seed data loader
+│   │   └── main.py           # FastAPI app entry point
+│   ├── ml/                   # Training script and synthetic data generator
+│   └── requirements.txt
+├── docs/
+│   ├── STATIC_TO_REACT_MAPPING.md
+│   ├── DATABASE_SCHEMA.md
+│   ├── ML_MODEL_CARD.md
+│   └── USER_RESEARCH_PLACEHOLDER.md
+└── docker-compose.yml
+```
+
+## Demo credentials
+
+```txt
+Email:    selena@gmcclinic.com
+Password: password123
+```
+
+## Run the frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+The frontend defaults to local seeded data so it works immediately even before the backend is running.
+
+## Run the backend
+
+```bash
+cd backend
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn app.main:app --reload --port 8000
+```
+
+API docs will be available at:
+
+```txt
+http://localhost:8000/docs
+```
+
+## Train the ML booking intent model
+
+```bash
+cd backend
+python ml/train_booking_intent.py
+```
+
+The script generates synthetic receptionist request samples and trains a `TfidfVectorizer + MultinomialNB` pipeline. It writes:
+
+```txt
+backend/app/services/artifacts/booking_intent_model.joblib
+backend/app/services/artifacts/booking_intent_metrics.json
+backend/ml/synthetic_booking_requests.csv
+```
+
+## Main API routes
+
+```txt
+POST   /api/auth/login
+GET    /api/patients
+POST   /api/patients
+GET    /api/doctors
+GET    /api/doctors/{doctor_id}/availability
+GET    /api/appointments
+POST   /api/appointments
+PATCH  /api/appointments/{appointment_id}
+POST   /api/appointments/{appointment_id}/complete
+POST   /api/appointments/{appointment_id}/cancel
+POST   /api/appointments/{appointment_id}/follow-up
+GET    /api/billing/invoices
+POST   /api/billing/payments
+POST   /api/ml/booking-intent/predict
+POST   /api/ml/booking-intent/train
+```

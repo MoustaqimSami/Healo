@@ -1,0 +1,89 @@
+.btn { display: inline-flex; justify-content: center; align-items: center; padding: 12px 24px; gap: 8px; border: none; border-radius: 4px; background: var(--primary-700); color: var(--neutral-50); font-weight: var(--weight-medium); font-size: var(--body-md-size); text-decoration: none; }
+.btn:hover { background: var(--primary-800); }
+.btn--small { padding: 8px 12px; font-size: var(--body-sm-size); }
+.btn--sec { background: var(--secondary-500); }
+.btn--txt { background: transparent; color: var(--primary-700); }
+.btn--txt:hover { background: var(--primary-50); }
+.btn--sec-txt { background: transparent; color: var(--secondary-400); }
+.btn--sec-txt:hover { background: var(--secondary-100); }
+.btn--danger-txt, .btn--danger-txt-red { background: transparent; color: var(--danger-200); }
+.btn--danger-txt:hover, .btn--danger-txt-red:hover { background: var(--danger-100); }
+.btn--secondary { background: var(--secondary-100); color: var(--secondary-500); border: 1px solid var(--neutral-300); }
+.btn--primary { background: var(--primary-700); color: var(--white); }
+.search-box { display: flex; align-items: center; align-self: stretch; gap: 16px; border: none; background: transparent; margin-bottom: 16px; }
+.search-wrapper { display: flex; align-items: center; width: 100%; border: 1px solid var(--neutral-200); border-radius: 8px; padding: 8px 12px; background: var(--white); }
+.search-wrapper:focus-within { border-color: var(--primary-600); box-shadow: 0 0 0 3px rgba(53,162,152,.20); }
+.search-input { flex: 1; border: none; outline: none; font-size: 16px; color: var(--neutral-900); background: transparent; }
+.filter-select { padding: 12px; color: var(--neutral-900); border-radius: 4px; border: 1px solid var(--neutral-200); background: var(--white); }
+.table { width: 100%; border-radius: 4px; border: 1px solid var(--neutral-200); border-collapse: separate; border-spacing: 0; overflow: hidden; background: var(--white); }
+.table-header th { padding: 16px 24px; text-align: left; border-bottom: 1px solid var(--neutral-200); background: var(--secondary-100); color: var(--secondary-400); font-weight: 600; font-size: var(--body-sm-size); }
+.table-row td { height: 72px; padding: 16px 24px; background: var(--white); border-bottom: 1px solid var(--neutral-200); color: var(--neutral-900); }
+.table-row:hover td { background: var(--primary-50); }
+.flexrow-gap2 { display: flex; gap: 2px; } .flexrow-gap4 { display: flex; gap: 4px; } .flexrow-gap8 { display: flex; gap: 8px; } .flexrow-gap12 { display: flex; gap: 12px; } .flexcol-gap12 { display: flex; flex-direction: column; gap: 12px; } .flexcol-gap24 { display: flex; flex-direction: column; gap: 24px; }
+.avatar { display: flex; width: 52px; height: 52px; border-radius: 50px; align-items: center; justify-content: center; color: var(--secondary-500); background: var(--secondary-100); font-weight: 600; }
+.avatar--medium { width: 64px; height: 64px; font-size: var(--body-xl-size); }
+.custom-scroll { overflow-y: auto; }
+.week-view { display: flex; padding: 12px; border-radius: 4px; border: 1px solid var(--neutral-200); background: var(--white); height: 44px; align-items: center; }
+.home-shortcuts-box { display: flex; align-items: stretch; gap: 16px; }
+.quick-action { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 24px; gap: 16px; flex: 1; border-radius: 4px; border: 1px solid var(--neutral-200); background: var(--white); }
+.quick-action-iconbox { display: flex; align-items: center; justify-content: center; width: 56px; height: 56px; border-radius: 4px; color: var(--white); }
+.quick-action-iconbox--orange { background: linear-gradient(249deg, rgba(245,158,66,.5) -65.7%, #e87252 223.71%); }
+.quick-action-iconbox--teal { background: linear-gradient(249deg, rgba(147,155,168,.5) -65.7%, #0d8f83 223.71%); }
+.quick-action-text { display: flex; align-items: center; gap: 4px; color: var(--secondary-500); font-weight: 500; }
+.week-calendar { display: flex; flex-direction: column; padding: 16px; gap: 24px; border-radius: 4px; border: 1px solid var(--neutral-200); background: var(--white); }
+.week-calendar-header { display: flex; align-items: flex-end; justify-content: space-between; }
+.week-nav-btn { width: 32px; height: 32px; border-radius: 4px; border: 1px solid var(--secondary-200); background: var(--white); }
+.week-day { display: flex; flex-direction: column; align-items: center; padding: 4px; gap: 12px; border: none; background: transparent; }
+.day-label { color: var(--secondary-300); } .day-label--selected { color: var(--accent-coral); }
+.day-number { display: flex; justify-content: center; align-items: center; width: 36px; height: 32px; border-radius: 8px; color: var(--secondary-300); }
+.day-number--selected { color: var(--neutral-50); background: var(--accent-coral); }
+.dashboard-section { display: flex; gap: 16px; flex: 1; overflow: hidden; }
+.tabs { display: flex; border-bottom: 1px solid var(--neutral-200); }
+.tab { padding: 8px 16px; background: transparent; border: 0; font-weight: 500; color: var(--neutral-700); }
+.tab--active { border-bottom: 2px solid var(--primary-600); color: var(--primary-600); }
+.tab-panel { display: flex; flex-direction: column; gap: 16px; height: 100%; overflow-y: auto; }
+.appointments-section { flex: 1; min-width: 0; }
+.appointments-div { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+.appointment-card { display: flex; justify-content: space-between; align-items: flex-end; padding: 12px; border-radius: 8px; border: 1px solid var(--neutral-200); }
+.appointment-card-info { display: flex; flex-direction: column; gap: 2px; }
+.appointment-card-patient { font-weight: 600; }
+.appointment-card-doctor, .appointment-card-time { font-size: var(--body-sm-size); color: var(--neutral-700); }
+.doctors-today-section { flex: 0 0 360px; }
+.doctors-today-list { display: flex; flex-direction: column; gap: 16px; overflow-y: auto; }
+.availability-card { display: flex; flex-direction: column; min-width: 320px; gap: 16px; padding: 12px; border-radius: 8px; border: 1px solid var(--neutral-200); }
+.availability-card-doctor { font-weight: 600; }
+.availability-card-info { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.availability-card-tag { display: inline-flex; padding: 4px 10px; border-radius: 50px; font-size: var(--body-xs-size); font-weight: 600; }
+.availability-card-tag--available { background: var(--success-100); color: var(--success-300); } .availability-card-tag--busy { background: var(--warning-100); color: var(--warning-200); } .availability-card-tag--booked { background: var(--danger-100); color: var(--danger-200); } .availability-card-tag--out { background: var(--secondary-100); color: var(--secondary-300); }
+.availability-card-time { font-size: var(--body-sm-size); color: var(--neutral-600); }
+.doctors-list { display: flex; flex-direction: column; gap: 16px; }
+.doctors-list-row { display: flex; gap: 16px; }
+.doctor-profile-card { display: flex; flex-direction: column; align-items: stretch; flex: 1; gap: 8px; border-radius: 8px; border: 1px solid var(--neutral-200); background: var(--white); text-align: left; padding: 0; }
+.doctor-profile-card-content { display: flex; padding: 16px 12px; justify-content: space-between; align-items: center; }
+.doctor-profile-card-details { display: flex; gap: 8px; flex-direction: column; }
+.doctor-profile-card-name { font-weight: 600; }
+.doctor-profile-card-tag { padding: 4px 8px; border-radius: 4px; background: var(--neutral-100); font-size: var(--body-xs-size); }
+.doctor-profile-card-action { display: flex; padding: 6px 4px; justify-content: flex-end; border-top: 1px solid var(--neutral-200); }
+.bill-sum { display: flex; gap: 20px; }
+.sum-crd { flex: 1; background: var(--white); border: 1px solid var(--neutral-200); border-radius: 10px; padding: 18px 20px; }
+.sum-l { color: var(--neutral-700); } .sum-v { font-size: 22px; font-weight: 700; } .sum-s { color: var(--neutral-600); }
+.process-btn { display: inline-flex; gap: 8px; align-items: center; background: var(--primary-700); border: none; color: var(--white); padding: 10px 18px; border-radius: 10px; font-weight: 700; }
+.inv-hd { display: flex; justify-content: space-between; align-items: center; }
+.inv-tbl-contain { border: 1px solid var(--neutral-200); border-radius: 12px; overflow: auto; }
+.inv-tbl { width: 100%; border-collapse: collapse; }
+.inv-tbl th { background: var(--neutral-100); padding: 14px; text-align: left; color: var(--neutral-600); }
+.inv-tbl td { padding: 14px; border-top: 1px solid var(--neutral-100); }
+.feedback-popup { position: fixed; right: 24px; bottom: 24px; z-index: 1000; padding: 10px 16px; border-radius: 999px; font-size: var(--body-sm-size); font-weight: 600; box-shadow: 0 8px 24px rgba(15,23,42,.16); }
+.feedback-popup--success { background: var(--success-100); color: var(--success-400); } .feedback-popup--danger { background: var(--danger-100); color: var(--danger-300); } .feedback-popup--info { background: var(--neutral-100); color: var(--neutral-700); }
+.confirm-modal-backdrop { position: fixed; inset: 0; background: rgba(15,23,42,.45); display: flex; align-items: center; justify-content: center; z-index: 1200; }
+.confirm-modal { background: var(--white); border-radius: 14px; padding: 24px 28px; width: min(520px,95vw); display: flex; flex-direction: column; gap: 16px; box-shadow: 0 20px 50px rgba(0,0,0,.2); }
+.confirm-modal-title { font-size: 20px; font-weight: 600; } .confirm-modal-message { color: var(--neutral-700); }
+.confirm-appt-card { display: flex; align-items: center; gap: 14px; padding: 12px 14px; border-radius: 10px; background: var(--neutral-50); border: 1px solid var(--neutral-200); }
+.confirm-appt-avatar { width: 42px; height: 42px; border-radius: 50%; background: var(--secondary-100); color: var(--secondary-500); display: flex; align-items: center; justify-content: center; font-weight: 600; }
+.confirm-appt-doctor, .confirm-appt-time { font-size: var(--body-sm-size); color: var(--neutral-700); }
+.confirm-modal-actions { display: flex; gap: 12px; }
+.confirm-modal-btn { flex: 1; padding: 12px; border-radius: 4px; border: none; font-weight: 600; }
+.confirm-modal-btn--secondary { background: var(--secondary-500); color: var(--white); } .confirm-modal-btn--teal { background: var(--primary-600); color: var(--white); } .confirm-modal-btn--primary { background: var(--danger-200); color: var(--white); }
+.ml-card { max-width: 720px; display: flex; flex-direction: column; gap: 12px; }
+.ml-card textarea { width: 100%; padding: 12px; border: 1px solid var(--neutral-300); border-radius: 8px; }
+.ml-result { max-width: 720px; padding: 18px; border: 1px solid var(--primary-200); border-radius: 12px; background: var(--primary-50); }
