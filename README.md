@@ -1,7 +1,6 @@
 # Healo — AI Clinic Management App
 
-**Live demo:** https://greenwood-medical-center-qfrw.vercel.app/
-
+**Live demo:** https://healo-oblho2q1i-moustaqimsamis-projects.vercel.app/
 Healo is an AI-supported clinic management application designed to help front-desk teams manage patient records, appointments, doctor schedules, billing workflows, and booking requests with a clearer, more accessible workflow.
 
 This project began as a high-fidelity clinic workflow prototype and has been expanded into a full-stack architecture using a React + TypeScript frontend, a Python/FastAPI backend, relational database schemas, and a scikit-learn booking-intent classifier.
