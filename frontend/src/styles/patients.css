@@ -1,0 +1,23 @@
+.patient-table { overflow: auto; }
+.item { display: flex; justify-content: space-between; align-items: center; padding: 20px; border: 1px solid var(--primary-100); border-radius: 8px; margin-bottom: 20px; }
+.profile-name-area { display: flex; align-items: center; }
+.patient-avatar { width: 100px; height: 100px; background: var(--neutral-100); border-radius: 40%; display: flex; align-items: center; justify-content: center; }
+.patient-avatar-img { width: 54px; height: 60px; object-fit: contain; }
+.patient-name { font-size: 1.5rem; font-weight: 600; margin-left: 20px; }
+.edit-profile-button { display: flex; align-items: center; gap: 6px; padding: 10px 15px; background: white; color: var(--primary-700); border: 1px solid var(--primary-700); border-radius: 6px; }
+.item--personal { display: grid; grid-template-columns: repeat(4,1fr); grid-template-rows: auto auto; grid-template-areas: "item-header item-header item-header item-header" "content-1 content-2 content-3 content-4"; gap: 12px; padding: 20px; border: 1px solid var(--primary-100); border-radius: 8px; margin-bottom: 20px; }
+.item-header { grid-area: item-header; margin-bottom: 8px; }
+.content-1 { grid-area: content-1; } .content-2 { grid-area: content-2; } .content-3 { grid-area: content-3; } .content-4 { grid-area: content-4; }
+.content-1, .content-2, .content-3, .content-4 { padding: 12px; border-radius: 6px; border: 1px solid var(--primary-100); background: #fff; display: flex; flex-direction: column; gap: 6px; color: var(--neutral-700); }
+.item-footer { display: flex; justify-content: flex-end; }
+.book-appointment-btn, .new-pat-btn { display: inline-flex; align-items: center; gap: 8px; padding: 14px 24px; background: var(--primary-700); color: white; border: none; border-radius: 6px; font-size: 18px; }
+.new-pat-btn { margin-left: auto; font-size: 16px; }
+.modal { display: none; position: fixed; z-index: 1000; inset: 0; background: rgba(0,0,0,.4); }
+.modal.active { display: flex; align-items: center; justify-content: center; }
+.modal-content { background: #fff; padding: 30px; border-radius: 8px; max-height: 90vh; overflow-y: auto; width: 85%; max-width: 1200px; box-shadow: 0 4px 20px var(--primary-300); }
+.modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px; border-bottom: 2px solid var(--primary-100); padding-bottom: 15px; }
+.modal-close { background: none; border: none; font-size: 2rem; color: #666; }
+.modal-form { display: flex; flex-direction: column; gap: 20px; }
+.modal-form input, .modal-form select { padding: 10px; border: 1px solid var(--primary-100); border-radius: 6px; width: 100%; }
+.modal-form label { font-weight: 600; font-size: .9rem; color: rgba(26,35,51,.8); }
+.modal-actions { display: flex; justify-content: flex-end; gap: 12px; }

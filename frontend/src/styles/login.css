@@ -1,0 +1,17 @@
+.login-container { min-height: 100vh; display: flex; justify-content: center; align-items: center; background: #f3f3f3; }
+.login-box { background: white; width: 430px; padding: 40px 45px 70px; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,.1); }
+.login-header { display: flex; align-items: center; gap: 16px; margin-bottom: 30px; }
+.logo-img { width: 78px; }
+.brand-name { font-size: 42px; line-height: 1; font-weight: 700; color: #0b544a; letter-spacing: 1px; }
+.brand-sub { margin-top: 4px; font-size: 16px; color: #0b544a; font-weight: 500; letter-spacing: .04em; }
+.login-box form label { font-size: 15px; font-weight: 600; display: block; }
+.login-box input { width: 100%; padding: 12px; margin: 6px 0 26px; border: 1px solid #ddd; border-radius: 6px; font-size: 15px; }
+.login-box input:focus { border-color: #0b544a; outline: none; }
+.password-field { position: relative; }
+.password-field input { margin-bottom: 8px; padding-right: 44px; }
+.email-field { padding-top: 25px; }
+.eye-icon-btn { position: absolute; right: 10px; top: 10px; border: none; background: transparent; color: var(--neutral-600); }
+.login-message { min-height: 24px; font-size: .9rem; text-align: center; padding-bottom: 4px; }
+.login-message.error { color: #d9534f; } .login-message.success { color: #5cb85c; }
+.login-btn { width: 100%; padding: 13px; background: #0b544a; color: white; border: none; border-radius: 6px; font-size: 20px; transition: transform .15s ease; }
+.login-btn:hover { transform: scale(1.01); }
